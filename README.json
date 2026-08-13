@@ -1,0 +1,188 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "ESLint rules for Node Security.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T00:01:25Z",
+            "owner": "eslint-community",
+            "repo": "eslint-plugin-security",
+            "stars": 2368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "ESLint rules to disallows unsafe innerHTML, outerHTML, insertAdjacentHTML and alike.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-22T16:34:22Z",
+            "owner": "mozilla",
+            "repo": "eslint-plugin-no-unsanitized",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "ESLint rules for writing safe and secure client code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-15T11:06:24Z",
+            "owner": "rustcohlnikov",
+            "repo": "eslint-config-sec",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Linters"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "XSS sanitizer for HTML, MathML and SVG",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T03:58:30Z",
+            "owner": "cure53",
+            "repo": "DOMPurify",
+            "stars": 17300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Clean up user-submitted HTML.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-02-26T19:54:30Z",
+            "owner": "apostrophecms",
+            "repo": "sanitize-html",
+            "stars": 4121
+          }
+        }
+      ],
+      "title": "Sanitizers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vulnerable Dependency Management",
+          "description": "About tools for detecting vulnerable third-party dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:46:20Z",
+            "owner": "OWASP",
+            "repo": "CheatSheetSeries",
+            "stars": 32914
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "NPM and Yarn dependencies audit for CI/CD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-17T20:17:07Z",
+            "owner": "IBM",
+            "repo": "audit-ci",
+            "stars": 297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "OWASP Dependency Track API client for CI/CD.",
+          "children": []
+        }
+      ],
+      "title": "Dependencies"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content-Security-Policy"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "X-XSS-Protection"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "X-Frame-Options"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Web Security",
+          "description": "A curated list of Web Security materials and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T04:50:06Z",
+            "owner": "qazbnm456",
+            "repo": "awesome-web-security",
+            "stars": 13672
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSP useful",
+          "description": "A collection of parsers, examples and tips for Content Security Policy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-10T09:04:37Z",
+            "owner": "nico3333fr",
+            "repo": "CSP-useful",
+            "stars": 502
+          }
+        }
+      ],
+      "title": "Other lists"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T05:53:22.514Z",
+    "original_repository": "rustcohlnikov/awesome-frontend-security",
+    "original_repository_sha": "5670396ab16801deaf0f745ffb74e05e832f7a7e",
+    "enhanced_repository": "enhansome/enhansome-frontend-security",
+    "enhanced_repository_description": null,
+    "title": "Awesome frontend security with stars"
+  }
+}
