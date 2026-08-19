@@ -14,7 +14,7 @@
             "last_commit": "2026-08-11T00:01:25Z",
             "owner": "eslint-community",
             "repo": "eslint-plugin-security",
-            "stars": 2368
+            "stars": 2370
           }
         },
         {
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T00:56:45Z",
+            "last_commit": "2026-08-18T14:59:47Z",
             "owner": "cure53",
             "repo": "DOMPurify",
-            "stars": 17309
+            "stars": 17313
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-17T22:14:12Z",
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 32916
+            "stars": 32924
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2026-08-04T04:50:06Z",
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13691
+            "stars": 13694
           }
         },
         {
@@ -178,7 +178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T04:57:31.836Z",
+    "last_updated": "2026-08-19T04:57:23.956Z",
     "original_repository": "rustcohlnikov/awesome-frontend-security",
     "original_repository_sha": "5670396ab16801deaf0f745ffb74e05e832f7a7e",
     "enhanced_repository": "enhansome/enhansome-frontend-security",
