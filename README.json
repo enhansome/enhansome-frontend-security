@@ -1,89 +1,102 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "",
-          "description": "ESLint rules for Node Security.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-11T00:01:25Z",
-            "owner": "eslint-community",
-            "repo": "eslint-plugin-security",
-            "stars": 2370
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "ESLint rules for Node Security.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45323325,
+                "language": "JavaScript",
+                "last_commit": "2026-08-11T00:01:25Z",
+                "owner": "eslint-community",
+                "repo": "eslint-plugin-security",
+                "stars": 2370
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "ESLint rules to disallows unsafe innerHTML, outerHTML, insertAdjacentHTML and alike.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35539361,
+                "language": "JavaScript",
+                "last_commit": "2026-07-22T16:34:22Z",
+                "owner": "mozilla",
+                "repo": "eslint-plugin-no-unsanitized",
+                "stars": 247
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "ESLint rules for writing safe and secure client code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 215237853,
+                "language": "JavaScript",
+                "last_commit": "2019-10-15T11:06:24Z",
+                "owner": "rustcohlnikov",
+                "repo": "eslint-config-sec",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Linters"
         },
         {
-          "node_type": "item",
-          "title": "",
-          "description": "ESLint rules to disallows unsafe innerHTML, outerHTML, insertAdjacentHTML and alike.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-22T16:34:22Z",
-            "owner": "mozilla",
-            "repo": "eslint-plugin-no-unsanitized",
-            "stars": 247
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "ESLint rules for writing safe and secure client code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-10-15T11:06:24Z",
-            "owner": "rustcohlnikov",
-            "repo": "eslint-config-sec",
-            "stars": 3
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "XSS sanitizer for HTML, MathML and SVG",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16927692,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T11:57:28Z",
+                "owner": "cure53",
+                "repo": "DOMPurify",
+                "stars": 17315
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Clean up user-submitted HTML.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 12711522,
+                "language": "JavaScript",
+                "last_commit": "2026-02-26T19:54:30Z",
+                "owner": "apostrophecms",
+                "repo": "sanitize-html",
+                "stars": 4119
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sanitizers"
         }
       ],
-      "title": "Linters"
+      "title": "Code"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "XSS sanitizer for HTML, MathML and SVG",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T14:59:47Z",
-            "owner": "cure53",
-            "repo": "DOMPurify",
-            "stars": 17313
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Clean up user-submitted HTML.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2026-02-26T19:54:30Z",
-            "owner": "apostrophecms",
-            "repo": "sanitize-html",
-            "stars": 4119
-          }
-        }
-      ],
-      "title": "Sanitizers"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -92,6 +105,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162723104,
             "language": "Python",
             "last_commit": "2026-08-17T22:14:12Z",
             "owner": "OWASP",
@@ -106,39 +120,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 157441460,
             "language": "TypeScript",
             "last_commit": "2025-09-17T20:17:07Z",
             "owner": "IBM",
             "repo": "audit-ci",
             "stars": 297
           }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "OWASP Dependency Track API client for CI/CD.",
-          "children": []
         }
       ],
       "title": "Dependencies"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Content-Security-Policy"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "X-XSS-Protection"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "X-Frame-Options"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -147,11 +141,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80358070,
             "language": "Python",
             "last_commit": "2026-08-04T04:50:06Z",
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13694
+            "stars": 13698
           }
         },
         {
@@ -161,6 +156,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42040934,
             "language": "PHP",
             "last_commit": "2026-07-10T09:04:37Z",
             "owner": "nico3333fr",
@@ -170,16 +166,12 @@
         }
       ],
       "title": "Other lists"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:57:23.956Z",
+    "last_updated": "2026-08-19T12:29:02.133Z",
     "original_repository": "rustcohlnikov/awesome-frontend-security",
+    "original_repository_id": 215488473,
     "original_repository_sha": "5670396ab16801deaf0f745ffb74e05e832f7a7e",
     "enhanced_repository": "enhansome/enhansome-frontend-security",
     "enhanced_repository_description": null,
