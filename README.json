@@ -69,7 +69,7 @@
                 "last_commit": "2026-08-19T11:57:28Z",
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17315
+                "stars": 17318
               }
             },
             {
@@ -110,7 +110,7 @@
             "last_commit": "2026-08-17T22:14:12Z",
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 32924
+            "stars": 32932
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2026-08-04T04:50:06Z",
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13698
+            "stars": 13700
           }
         },
         {
@@ -169,7 +169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:29:02.133Z",
+    "last_updated": "2026-08-20T04:58:55.181Z",
     "original_repository": "rustcohlnikov/awesome-frontend-security",
     "original_repository_id": 215488473,
     "original_repository_sha": "5670396ab16801deaf0f745ffb74e05e832f7a7e",
