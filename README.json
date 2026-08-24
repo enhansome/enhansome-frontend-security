@@ -4,10 +4,25 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "AJAX Security Cheatsheet",
+          "description": "A starting point for AJAX security.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 162723104,
+            "language": "Python",
+            "last_commit": "2026-08-24T07:52:49Z",
+            "owner": "OWASP",
+            "repo": "CheatSheetSeries",
+            "stars": 32966
+          }
+        },
+        {
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "eslint-plugin-security",
               "description": "ESLint rules for Node Security.",
               "children": [],
               "repo_info": {
@@ -22,7 +37,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "eslint-plugin-no-unsanitized",
               "description": "ESLint rules to disallows unsafe innerHTML, outerHTML, insertAdjacentHTML and alike.",
               "children": [],
               "repo_info": {
@@ -37,7 +52,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "eslint-config-sec",
               "description": "ESLint rules for writing safe and secure client code.",
               "children": [],
               "repo_info": {
@@ -59,22 +74,22 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "DOMPurify",
               "description": "XSS sanitizer for HTML, MathML and SVG",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 16927692,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T22:08:21Z",
+                "last_commit": "2026-08-24T06:24:16Z",
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17323
+                "stars": 17326
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "sanitize-html",
               "description": "Clean up user-submitted HTML.",
               "children": [],
               "repo_info": {
@@ -91,6 +106,28 @@
           "description": null,
           "node_type": "group",
           "title": "Sanitizers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "serialize-javascript",
+              "description": "Serialize JavaScript safely - HTML characters and JS line terminators are escaped automatically.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24106944,
+                "language": "JavaScript",
+                "last_commit": "2026-08-08T03:03:07Z",
+                "owner": "yahoo",
+                "repo": "serialize-javascript",
+                "stars": 2922
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Serializers"
         }
       ],
       "title": "Code"
@@ -107,15 +144,15 @@
             "archived": false,
             "id": 162723104,
             "language": "Python",
-            "last_commit": "2026-08-17T22:14:12Z",
+            "last_commit": "2026-08-24T07:52:49Z",
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 32963
+            "stars": 32966
           }
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "audit-ci",
           "description": "NPM and Yarn dependencies audit for CI/CD.",
           "children": [],
           "repo_info": {
@@ -135,6 +172,85 @@
       "description": null,
       "items": [
         {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "csp-html-webpack-plugin",
+                  "description": "Generates meta content for your Content Security Policy tag.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 117714206,
+                    "language": "JavaScript",
+                    "last_commit": "2026-06-02T19:27:30Z",
+                    "owner": "slackhq",
+                    "repo": "csp-html-webpack-plugin",
+                    "stars": 172
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "🧪Create"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "CSP Tester",
+                  "description": "Browser extension for testing Content Security Policy (CSP).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 11394222,
+                    "language": "JavaScript",
+                    "last_commit": "2018-09-02T19:21:36Z",
+                    "owner": "yandex",
+                    "repo": "csp-tester",
+                    "stars": 56
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "🔍Validate"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "CSP WTF?",
+                  "description": "Explanations for strange CSP Report notifications.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 42040934,
+                    "language": "PHP",
+                    "last_commit": "2026-07-10T09:04:37Z",
+                    "owner": "nico3333fr",
+                    "repo": "CSP-useful",
+                    "stars": 502
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "🤔Analyse"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Content-Security-Policy"
+        }
+      ],
+      "title": "Headers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "Awesome Web Security",
           "description": "A curated list of Web Security materials and resources.",
@@ -146,7 +262,7 @@
             "last_commit": "2026-08-21T13:51:02Z",
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13723
+            "stars": 13726
           }
         },
         {
@@ -169,7 +285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:06:59.321Z",
+    "last_updated": "2026-08-24T14:42:57.330Z",
     "original_repository": "rustcohlnikov/awesome-frontend-security",
     "original_repository_id": 215488473,
     "original_repository_sha": "5670396ab16801deaf0f745ffb74e05e832f7a7e",
