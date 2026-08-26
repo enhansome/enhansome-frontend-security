@@ -12,10 +12,10 @@
             "archived": false,
             "id": 162723104,
             "language": "Python",
-            "last_commit": "2026-08-25T01:30:55Z",
+            "last_commit": "2026-08-25T20:45:14Z",
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 32972
+            "stars": 32985
           }
         },
         {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-20T23:38:15Z",
                 "owner": "eslint-community",
                 "repo": "eslint-plugin-security",
-                "stars": 2371
+                "stars": 2372
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-24T06:24:16Z",
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17332
+                "stars": 17336
               }
             },
             {
@@ -144,10 +144,10 @@
             "archived": false,
             "id": 162723104,
             "language": "Python",
-            "last_commit": "2026-08-25T01:30:55Z",
+            "last_commit": "2026-08-25T20:45:14Z",
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 32972
+            "stars": 32985
           }
         },
         {
@@ -262,7 +262,7 @@
             "last_commit": "2026-08-21T13:51:02Z",
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13729
+            "stars": 13730
           }
         },
         {
@@ -285,7 +285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:37:10.304Z",
+    "last_updated": "2026-08-26T05:00:40.242Z",
     "original_repository": "rustcohlnikov/awesome-frontend-security",
     "original_repository_id": 215488473,
     "original_repository_sha": "5670396ab16801deaf0f745ffb74e05e832f7a7e",
