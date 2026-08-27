@@ -2,7 +2,7 @@
 
 <p><img src="/logo.png" alt="awesome-frontend-security" srcset="/logo.png 2x"/></p>
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,362 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,415 | 🐛 105 | 📅 2026-08-21
 
 ## Contents
 
@@ -20,7 +20,7 @@
 
 ## Code
 
-* [AJAX Security Cheatsheet](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/AJAX_Security_Cheat_Sheet.md) ⭐ 33,002 | 🐛 65 | 🌐 Python | 📅 2026-08-25 - A starting point for AJAX security.
+* [AJAX Security Cheatsheet](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/AJAX_Security_Cheat_Sheet.md) ⭐ 33,003 | 🐛 65 | 🌐 Python | 📅 2026-08-25 - A starting point for AJAX security.
 * [JavaScript Secure Coding Practices](https://checkmarx.gitbooks.io/js-scp/content/) - A guide written for anyone who is using the JavaScript for web development.
 * [Security Policy](https://help.github.com/en/articles/adding-a-security-policy-to-your-repository) - How to add a security policy to your Github repository.
 
@@ -41,7 +41,7 @@
 
 ## Dependencies
 
-* [Vulnerable Dependency Management](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Vulnerable_Dependency_Management_Cheat_Sheet.md#tools) ⭐ 33,002 | 🐛 65 | 🌐 Python | 📅 2026-08-25 - About tools for detecting vulnerable third-party dependencies.
+* [Vulnerable Dependency Management](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Vulnerable_Dependency_Management_Cheat_Sheet.md#tools) ⭐ 33,003 | 🐛 65 | 🌐 Python | 📅 2026-08-25 - About tools for detecting vulnerable third-party dependencies.
 * [`audit-ci`](https://github.com/IBM/audit-ci) ⭐ 297 | 🐛 20 | 🌐 TypeScript | 📅 2025-09-17 - NPM and Yarn dependencies audit for CI/CD.
 * [`dtrack-audit`](https://github.com/ozonru/dtrack-audit) - OWASP Dependency Track API client for CI/CD.
 * [Github Automated Security Fixes](https://help.github.com/en/articles/configuring-automated-security-fixes) - How to use automated or manual pull requests to easily update vulnerable dependencies.
