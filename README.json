@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T20:45:14Z",
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 32985
+            "stars": 33002
           }
         },
         {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-24T06:24:16Z",
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17336
+                "stars": 17343
               }
             },
             {
@@ -118,7 +118,7 @@
                 "archived": false,
                 "id": 24106944,
                 "language": "JavaScript",
-                "last_commit": "2026-08-08T03:03:07Z",
+                "last_commit": "2026-08-26T13:09:24Z",
                 "owner": "yahoo",
                 "repo": "serialize-javascript",
                 "stars": 2922
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-25T20:45:14Z",
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 32985
+            "stars": 33002
           }
         },
         {
@@ -262,7 +262,7 @@
             "last_commit": "2026-08-21T13:51:02Z",
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13730
+            "stars": 13731
           }
         },
         {
@@ -285,9 +285,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:00:40.242Z",
-    "original_repository": "rustcohlnikov/awesome-frontend-security",
-    "original_repository_id": 215488473,
+    "last_updated": "2026-08-27T11:38:51.446Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 215488473,
+      "language": null,
+      "last_commit": "2022-07-29T03:44:10Z",
+      "owner": "rustcohlnikov",
+      "repo": "awesome-frontend-security",
+      "stars": 74
+    },
     "original_repository_sha": "5670396ab16801deaf0f745ffb74e05e832f7a7e",
     "enhanced_repository": "enhansome/enhansome-frontend-security",
     "enhanced_repository_description": null,
