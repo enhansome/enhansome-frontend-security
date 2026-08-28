@@ -15,8 +15,9 @@
             "last_commit": "2026-08-25T20:45:14Z",
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33003
-          }
+            "stars": 33010
+          },
+          "first_seen": "2026-08-28T16:44:35.567Z"
         },
         {
           "children": [
@@ -33,7 +34,8 @@
                 "owner": "eslint-community",
                 "repo": "eslint-plugin-security",
                 "stars": 2372
-              }
+              },
+              "first_seen": "2026-08-28T16:44:35.567Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "mozilla",
                 "repo": "eslint-plugin-no-unsanitized",
                 "stars": 247
-              }
+              },
+              "first_seen": "2026-08-28T16:44:35.567Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "rustcohlnikov",
                 "repo": "eslint-config-sec",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T16:44:35.567Z"
             }
           ],
           "description": null,
@@ -84,8 +88,9 @@
                 "last_commit": "2026-08-24T06:24:16Z",
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17343
-              }
+                "stars": 17346
+              },
+              "first_seen": "2026-08-28T16:44:35.567Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "apostrophecms",
                 "repo": "sanitize-html",
                 "stars": 4118
-              }
+              },
+              "first_seen": "2026-08-28T16:44:35.567Z"
             }
           ],
           "description": null,
@@ -121,8 +127,9 @@
                 "last_commit": "2026-08-26T13:09:24Z",
                 "owner": "yahoo",
                 "repo": "serialize-javascript",
-                "stars": 2922
-              }
+                "stars": 2923
+              },
+              "first_seen": "2026-08-28T16:44:35.567Z"
             }
           ],
           "description": null,
@@ -147,8 +154,9 @@
             "last_commit": "2026-08-25T20:45:14Z",
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33003
-          }
+            "stars": 33010
+          },
+          "first_seen": "2026-08-28T16:44:35.567Z"
         },
         {
           "node_type": "item",
@@ -163,7 +171,8 @@
             "owner": "IBM",
             "repo": "audit-ci",
             "stars": 297
-          }
+          },
+          "first_seen": "2026-08-28T16:44:35.567Z"
         }
       ],
       "title": "Dependencies"
@@ -188,7 +197,8 @@
                     "owner": "slackhq",
                     "repo": "csp-html-webpack-plugin",
                     "stars": 172
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:44:35.567Z"
                 }
               ],
               "description": null,
@@ -210,7 +220,8 @@
                     "owner": "yandex",
                     "repo": "csp-tester",
                     "stars": 56
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:44:35.567Z"
                 }
               ],
               "description": null,
@@ -232,7 +243,8 @@
                     "owner": "nico3333fr",
                     "repo": "CSP-useful",
                     "stars": 502
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:44:35.567Z"
                 }
               ],
               "description": null,
@@ -262,8 +274,9 @@
             "last_commit": "2026-08-21T13:51:02Z",
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13731
-          }
+            "stars": 13737
+          },
+          "first_seen": "2026-08-28T16:44:35.567Z"
         },
         {
           "node_type": "item",
@@ -278,14 +291,15 @@
             "owner": "nico3333fr",
             "repo": "CSP-useful",
             "stars": 502
-          }
+          },
+          "first_seen": "2026-08-28T16:44:35.567Z"
         }
       ],
       "title": "Other lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:20:53.202Z",
+    "last_updated": "2026-08-28T16:44:35.567Z",
     "original_repository_info": {
       "archived": false,
       "id": 215488473,
