@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.",
+            "homepage": "https://cheatsheetseries.owasp.org",
             "id": 162723104,
             "language": "Python",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T20:45:14Z",
+            "open_issues": 67,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33010
+            "stars": 33011,
+            "topics": [
+              "application-security",
+              "appsec",
+              "best-practices",
+              "cheatsheets",
+              "code",
+              "owasp",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T16:44:35.567Z"
         },
@@ -28,12 +41,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint rules for Node Security",
+                "homepage": null,
                 "id": 45323325,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T23:38:15Z",
+                "open_issues": 21,
                 "owner": "eslint-community",
                 "repo": "eslint-plugin-security",
-                "stars": 2372
+                "stars": 2372,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin"
+                ]
               },
               "first_seen": "2026-08-28T16:44:35.567Z"
             },
@@ -44,12 +65,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Custom ESLint rule to disallows unsafe innerHTML, outerHTML, insertAdjacentHTML and alike",
+                "homepage": null,
                 "id": 35539361,
                 "language": "JavaScript",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-20T07:09:26Z",
+                "open_issues": 36,
                 "owner": "mozilla",
                 "repo": "eslint-plugin-no-unsanitized",
-                "stars": 247
+                "stars": 247,
+                "topics": [
+                  "eslint-plugin",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T16:44:35.567Z"
             },
@@ -60,12 +89,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔒 Linting rules for safe and secure client code",
+                "homepage": null,
                 "id": 215237853,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-10-15T11:06:24Z",
+                "open_issues": 0,
                 "owner": "rustcohlnikov",
                 "repo": "eslint-config-sec",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "eslint",
+                  "fe-sec",
+                  "linter",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T16:44:35.567Z"
             }
@@ -83,12 +122,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:",
+                "homepage": "https://cure53.de/purify",
                 "id": 16927692,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T06:24:16Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T22:08:32Z",
+                "open_issues": 7,
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17346
+                "stars": 17346,
+                "topics": [
+                  "cross-site-scripting",
+                  "dom",
+                  "dompurify",
+                  "html",
+                  "javascript",
+                  "mathml",
+                  "prevent-xss-attacks",
+                  "sanitizer",
+                  "security",
+                  "svg",
+                  "xss"
+                ]
               },
               "first_seen": "2026-08-28T16:44:35.567Z"
             },
@@ -99,12 +155,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance",
+                "homepage": null,
                 "id": 12711522,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-26T19:54:30Z",
+                "open_issues": 18,
                 "owner": "apostrophecms",
                 "repo": "sanitize-html",
-                "stars": 4118
+                "stars": 4118,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:44:35.567Z"
             }
@@ -122,12 +183,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Serialize JavaScript to a superset of JSON that includes regular expressions and functions.",
+                "homepage": null,
                 "id": 24106944,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T13:09:24Z",
+                "open_issues": 45,
                 "owner": "yahoo",
                 "repo": "serialize-javascript",
-                "stars": 2923
+                "stars": 2923,
+                "topics": [
+                  "javascript",
+                  "json",
+                  "serialize",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T16:44:35.567Z"
             }
@@ -149,12 +220,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.",
+            "homepage": "https://cheatsheetseries.owasp.org",
             "id": 162723104,
             "language": "Python",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T20:45:14Z",
+            "open_issues": 67,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33010
+            "stars": 33011,
+            "topics": [
+              "application-security",
+              "appsec",
+              "best-practices",
+              "cheatsheets",
+              "code",
+              "owasp",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T16:44:35.567Z"
         },
@@ -165,12 +249,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Audit NPM, Yarn, PNPM, and Bun dependencies in continuous integration environments, preventing integration if vulnerabilities are found at or above a configurable threshold while ignoring allowlisted advisories",
+            "homepage": null,
             "id": 157441460,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T20:17:07Z",
+            "open_issues": 20,
             "owner": "IBM",
             "repo": "audit-ci",
-            "stars": 297
+            "stars": 297,
+            "topics": [
+              "audit",
+              "audit-ci",
+              "bun",
+              "ci",
+              "github-actions",
+              "npm",
+              "pnpm",
+              "security",
+              "yarn"
+            ]
           },
           "first_seen": "2026-08-28T16:44:35.567Z"
         }
@@ -191,12 +290,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A plugin which, when combined with HTMLWebpackPlugin, adds CSP tags to the HTML output.",
+                    "homepage": null,
                     "id": 117714206,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-06-02T19:27:30Z",
+                    "open_issues": 28,
                     "owner": "slackhq",
                     "repo": "csp-html-webpack-plugin",
-                    "stars": 172
+                    "stars": 172,
+                    "topics": [
+                      "csp",
+                      "html-webpack-plugin",
+                      "webpack"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:44:35.567Z"
                 }
@@ -214,12 +322,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This extension helps web masters to test web application behaviour with Content Security Policy (CSP) ver. 1.0 implemented.",
+                    "homepage": null,
                     "id": 11394222,
                     "language": "JavaScript",
+                    "license": "GPL-2.0",
                     "last_commit": "2018-09-02T19:21:36Z",
+                    "open_issues": 3,
                     "owner": "yandex",
                     "repo": "csp-tester",
-                    "stars": 56
+                    "stars": 56,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:44:35.567Z"
                 }
@@ -237,12 +350,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Collection of scripts, thoughts about CSP (Content Security Policy)",
+                    "homepage": null,
                     "id": 42040934,
                     "language": "PHP",
+                    "license": "MIT",
                     "last_commit": "2026-07-10T09:04:37Z",
+                    "open_issues": 8,
                     "owner": "nico3333fr",
                     "repo": "CSP-useful",
-                    "stars": 502
+                    "stars": 502,
+                    "topics": [
+                      "content-security-policy",
+                      "csp",
+                      "csp-directives",
+                      "csp-parsers",
+                      "csp1",
+                      "csp2",
+                      "csp3",
+                      "notifications",
+                      "report-uri"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:44:35.567Z"
                 }
@@ -269,12 +397,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐶 A curated list of Web Security materials and resources.",
+            "homepage": "https://awesomelists.top/#/repos/qazbnm456/awesome-web-security",
             "id": 80358070,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-21T13:51:02Z",
+            "open_issues": 4,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13737
+            "stars": 13739,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "list",
+              "penetration-testing",
+              "security",
+              "web",
+              "websecurity"
+            ]
           },
           "first_seen": "2026-08-28T16:44:35.567Z"
         },
@@ -285,12 +426,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of scripts, thoughts about CSP (Content Security Policy)",
+            "homepage": null,
             "id": 42040934,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-07-10T09:04:37Z",
+            "open_issues": 8,
             "owner": "nico3333fr",
             "repo": "CSP-useful",
-            "stars": 502
+            "stars": 502,
+            "topics": [
+              "content-security-policy",
+              "csp",
+              "csp-directives",
+              "csp-parsers",
+              "csp1",
+              "csp2",
+              "csp3",
+              "notifications",
+              "report-uri"
+            ]
           },
           "first_seen": "2026-08-28T16:44:35.567Z"
         }
@@ -299,15 +455,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:44:35.567Z",
+    "last_updated": "2026-08-29T05:04:55.579Z",
     "original_repository_info": {
       "archived": false,
+      "description": "☔️A curated list of tools, articles & resources to help take your frontend security to the next level. Feel free to contribute!",
+      "homepage": null,
       "id": 215488473,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2022-07-29T03:44:10Z",
+      "open_issues": 1,
       "owner": "rustcohlnikov",
       "repo": "awesome-frontend-security",
-      "stars": 74
+      "stars": 74,
+      "topics": [
+        "appsec",
+        "awesome",
+        "awesome-list",
+        "best-practices",
+        "content-security-policy",
+        "csp",
+        "fe-sec",
+        "frontend",
+        "frontend-security",
+        "npm-audit",
+        "security"
+      ]
     },
     "original_repository_sha": "5670396ab16801deaf0f745ffb74e05e832f7a7e",
     "enhanced_repository": "enhansome/enhansome-frontend-security",
