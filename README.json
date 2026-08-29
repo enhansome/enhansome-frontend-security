@@ -19,7 +19,7 @@
             "open_issues": 67,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33011,
+            "stars": 33012,
             "topics": [
               "application-security",
               "appsec",
@@ -229,7 +229,7 @@
             "open_issues": 67,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33011,
+            "stars": 33012,
             "topics": [
               "application-security",
               "appsec",
@@ -406,7 +406,7 @@
             "open_issues": 4,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13739,
+            "stars": 13740,
             "topics": [
               "awesome",
               "awesome-list",
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:04:55.579Z",
+    "last_updated": "2026-08-29T11:12:10.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "☔️A curated list of tools, articles & resources to help take your frontend security to the next level. Feel free to contribute!",
