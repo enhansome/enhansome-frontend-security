@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-04T04:09:44Z",
-            "open_issues": 71,
+            "open_issues": 63,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33073,
+            "stars": 33082,
             "topics": [
               "application-security",
               "appsec",
@@ -50,7 +50,7 @@
                 "open_issues": 22,
                 "owner": "eslint-community",
                 "repo": "eslint-plugin-security",
-                "stars": 2373,
+                "stars": 2374,
                 "topics": [
                   "eslint",
                   "eslint-plugin"
@@ -127,8 +127,8 @@
                 "id": 16927692,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T07:02:34Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-04T22:07:28Z",
+                "open_issues": 4,
                 "owner": "cure53",
                 "repo": "DOMPurify",
                 "stars": 17357,
@@ -226,10 +226,10 @@
             "language": "Python",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-04T04:09:44Z",
-            "open_issues": 71,
+            "open_issues": 63,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33073,
+            "stars": 33082,
             "topics": [
               "application-security",
               "appsec",
@@ -402,11 +402,11 @@
             "id": 80358070,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-08-21T13:51:02Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-05T08:13:35Z",
+            "open_issues": 2,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13766,
+            "stars": 13770,
             "topics": [
               "awesome",
               "awesome-list",
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T08:55:15.598Z",
+    "last_updated": "2026-09-05T08:26:08.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "☔️A curated list of tools, articles & resources to help take your frontend security to the next level. Feel free to contribute!",
