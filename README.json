@@ -19,7 +19,7 @@
             "open_issues": 62,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33153,
+            "stars": 33159,
             "topics": [
               "application-security",
               "appsec",
@@ -50,7 +50,7 @@
                 "open_issues": 25,
                 "owner": "eslint-community",
                 "repo": "eslint-plugin-security",
-                "stars": 2374,
+                "stars": 2375,
                 "topics": [
                   "eslint",
                   "eslint-plugin"
@@ -131,7 +131,7 @@
                 "open_issues": 1,
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17381,
+                "stars": 17383,
                 "topics": [
                   "cross-site-scripting",
                   "dom",
@@ -192,7 +192,7 @@
                 "open_issues": 43,
                 "owner": "yahoo",
                 "repo": "serialize-javascript",
-                "stars": 2922,
+                "stars": 2921,
                 "topics": [
                   "javascript",
                   "json",
@@ -229,7 +229,7 @@
             "open_issues": 62,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33153,
+            "stars": 33159,
             "topics": [
               "application-security",
               "appsec",
@@ -406,7 +406,7 @@
             "open_issues": 4,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13784,
+            "stars": 13787,
             "topics": [
               "awesome",
               "awesome-list",
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T08:42:31.597Z",
+    "last_updated": "2026-09-13T09:37:08.664Z",
     "original_repository_info": {
       "archived": false,
       "description": "☔️A curated list of tools, articles & resources to help take your frontend security to the next level. Feel free to contribute!",
