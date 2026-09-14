@@ -19,7 +19,7 @@
             "open_issues": 62,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33159,
+            "stars": 33167,
             "topics": [
               "application-security",
               "appsec",
@@ -131,7 +131,7 @@
                 "open_issues": 1,
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17383,
+                "stars": 17386,
                 "topics": [
                   "cross-site-scripting",
                   "dom",
@@ -229,7 +229,7 @@
             "open_issues": 62,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33159,
+            "stars": 33167,
             "topics": [
               "application-security",
               "appsec",
@@ -406,7 +406,7 @@
             "open_issues": 4,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13787,
+            "stars": 13792,
             "topics": [
               "awesome",
               "awesome-list",
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T09:37:08.664Z",
+    "last_updated": "2026-09-14T09:59:09.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "☔️A curated list of tools, articles & resources to help take your frontend security to the next level. Feel free to contribute!",
