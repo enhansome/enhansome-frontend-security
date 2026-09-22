@@ -2,7 +2,7 @@
 
 <p><img src="/logo.png" alt="awesome-frontend-security" srcset="/logo.png 2x"/></p>
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,393 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,776 | 🐛 106 | 📅 2026-09-02
 
 ## Contents
 
@@ -20,7 +20,7 @@
 
 ## Code
 
-* [AJAX Security Cheatsheet](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/AJAX_Security_Cheat_Sheet.md) ⭐ 33,259 | 🐛 58 | 🌐 Python | 📅 2026-09-21 - A starting point for AJAX security.
+* [AJAX Security Cheatsheet](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/AJAX_Security_Cheat_Sheet.md) ⭐ 33,271 | 🐛 58 | 🌐 Python | 📅 2026-09-22 - A starting point for AJAX security.
 * [JavaScript Secure Coding Practices](https://checkmarx.gitbooks.io/js-scp/content/) - A guide written for anyone who is using the JavaScript for web development.
 * [Security Policy](https://help.github.com/en/articles/adding-a-security-policy-to-your-repository) - How to add a security policy to your Github repository.
 
@@ -32,17 +32,17 @@
 
 ### Sanitizers
 
-* [`dompurify`](https://github.com/cure53/DOMPurify) ⭐ 17,410 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-19 - XSS sanitizer for HTML, MathML and SVG
+* [`dompurify`](https://github.com/cure53/DOMPurify) ⭐ 17,409 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-22 - XSS sanitizer for HTML, MathML and SVG
 * [`sanitize-html`](https://github.com/apostrophecms/sanitize-html) ⚠️ Archived - Clean up user-submitted HTML.
 
 ### Serializers
 
-* [`serialize-javascript`](https://github.com/yahoo/serialize-javascript) ⭐ 2,922 | 🐛 45 | 🌐 JavaScript | 📅 2026-08-29 - Serialize JavaScript safely - HTML characters and JS line terminators are escaped automatically.
+* [`serialize-javascript`](https://github.com/yahoo/serialize-javascript) ⭐ 2,922 | 🐛 44 | 🌐 JavaScript | 📅 2026-08-29 - Serialize JavaScript safely - HTML characters and JS line terminators are escaped automatically.
 
 ## Dependencies
 
-* [Vulnerable Dependency Management](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Vulnerable_Dependency_Management_Cheat_Sheet.md#tools) ⭐ 33,259 | 🐛 58 | 🌐 Python | 📅 2026-09-21 - About tools for detecting vulnerable third-party dependencies.
-* [`audit-ci`](https://github.com/IBM/audit-ci) ⭐ 297 | 🐛 22 | 🌐 TypeScript | 📅 2025-09-17 - NPM and Yarn dependencies audit for CI/CD.
+* [Vulnerable Dependency Management](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Vulnerable_Dependency_Management_Cheat_Sheet.md#tools) ⭐ 33,271 | 🐛 58 | 🌐 Python | 📅 2026-09-22 - About tools for detecting vulnerable third-party dependencies.
+* [`audit-ci`](https://github.com/IBM/audit-ci) ⭐ 297 | 🐛 23 | 🌐 TypeScript | 📅 2025-09-17 - NPM and Yarn dependencies audit for CI/CD.
 * [`dtrack-audit`](https://github.com/ozonru/dtrack-audit) - OWASP Dependency Track API client for CI/CD.
 * [Github Automated Security Fixes](https://help.github.com/en/articles/configuring-automated-security-fixes) - How to use automated or manual pull requests to easily update vulnerable dependencies.
 
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
