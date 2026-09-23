@@ -15,11 +15,11 @@
             "id": 162723104,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-22T06:16:33Z",
-            "open_issues": 58,
+            "last_commit": "2026-09-22T21:05:24Z",
+            "open_issues": 57,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33271,
+            "stars": 33282,
             "topics": [
               "application-security",
               "appsec",
@@ -127,11 +127,11 @@
                 "id": 16927692,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T09:13:53Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-23T06:50:38Z",
+                "open_issues": 1,
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17409,
+                "stars": 17408,
                 "topics": [
                   "cross-site-scripting",
                   "dom",
@@ -225,11 +225,11 @@
             "id": 162723104,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-22T06:16:33Z",
-            "open_issues": 58,
+            "last_commit": "2026-09-22T21:05:24Z",
+            "open_issues": 57,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33271,
+            "stars": 33282,
             "topics": [
               "application-security",
               "appsec",
@@ -248,7 +248,7 @@
           "description": "NPM and Yarn dependencies audit for CI/CD.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Audit NPM, Yarn, PNPM, and Bun dependencies in continuous integration environments, preventing integration if vulnerabilities are found at or above a configurable threshold while ignoring allowlisted advisories",
             "homepage": null,
             "id": 157441460,
@@ -406,7 +406,7 @@
             "open_issues": 9,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13812,
+            "stars": 13816,
             "topics": [
               "awesome",
               "awesome-list",
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T09:22:43.655Z",
+    "last_updated": "2026-09-23T09:23:35.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "☔️A curated list of tools, articles & resources to help take your frontend security to the next level. Feel free to contribute!",
