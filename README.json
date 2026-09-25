@@ -19,7 +19,7 @@
             "open_issues": 56,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33292,
+            "stars": 33298,
             "topics": [
               "application-security",
               "appsec",
@@ -50,7 +50,7 @@
                 "open_issues": 21,
                 "owner": "eslint-community",
                 "repo": "eslint-plugin-security",
-                "stars": 2377,
+                "stars": 2378,
                 "topics": [
                   "eslint",
                   "eslint-plugin"
@@ -131,7 +131,7 @@
                 "open_issues": 0,
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17407,
+                "stars": 17411,
                 "topics": [
                   "cross-site-scripting",
                   "dom",
@@ -164,7 +164,7 @@
                 "open_issues": 18,
                 "owner": "apostrophecms",
                 "repo": "sanitize-html",
-                "stars": 4115,
+                "stars": 4114,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:44:35.567Z"
@@ -192,7 +192,7 @@
                 "open_issues": 44,
                 "owner": "yahoo",
                 "repo": "serialize-javascript",
-                "stars": 2922,
+                "stars": 2923,
                 "topics": [
                   "javascript",
                   "json",
@@ -229,7 +229,7 @@
             "open_issues": 56,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33292,
+            "stars": 33298,
             "topics": [
               "application-security",
               "appsec",
@@ -406,7 +406,7 @@
             "open_issues": 9,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13818,
+            "stars": 13821,
             "topics": [
               "awesome",
               "awesome-list",
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T09:23:44.946Z",
+    "last_updated": "2026-09-25T09:41:30.268Z",
     "original_repository_info": {
       "archived": false,
       "description": "☔️A curated list of tools, articles & resources to help take your frontend security to the next level. Feel free to contribute!",
