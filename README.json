@@ -19,7 +19,7 @@
             "open_issues": 56,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33309,
+            "stars": 33321,
             "topics": [
               "application-security",
               "appsec",
@@ -46,7 +46,7 @@
                 "id": 45323325,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T14:46:09Z",
+                "last_commit": "2026-09-27T06:33:58Z",
                 "open_issues": 21,
                 "owner": "eslint-community",
                 "repo": "eslint-plugin-security",
@@ -127,11 +127,11 @@
                 "id": 16927692,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T22:07:35Z",
-                "open_issues": 11,
+                "last_commit": "2026-09-26T10:09:01Z",
+                "open_issues": 0,
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17412,
+                "stars": 17413,
                 "topics": [
                   "cross-site-scripting",
                   "dom",
@@ -229,7 +229,7 @@
             "open_issues": 56,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33309,
+            "stars": 33321,
             "topics": [
               "application-security",
               "appsec",
@@ -403,10 +403,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-09-14T12:46:56Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13823,
+            "stars": 13827,
             "topics": [
               "awesome",
               "awesome-list",
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T09:25:36.216Z",
+    "last_updated": "2026-09-27T10:05:21.202Z",
     "original_repository_info": {
       "archived": false,
       "description": "☔️A curated list of tools, articles & resources to help take your frontend security to the next level. Feel free to contribute!",
