@@ -15,11 +15,11 @@
             "id": 162723104,
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-03T00:36:34Z",
+            "last_commit": "2026-10-03T06:51:34Z",
             "open_issues": 4,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33392,
+            "stars": 33396,
             "topics": [
               "application-security",
               "appsec",
@@ -128,10 +128,10 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T22:07:21Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17432,
+                "stars": 17433,
                 "topics": [
                   "cross-site-scripting",
                   "dom",
@@ -189,7 +189,7 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-23T15:50:34Z",
-                "open_issues": 46,
+                "open_issues": 47,
                 "owner": "yahoo",
                 "repo": "serialize-javascript",
                 "stars": 2922,
@@ -225,11 +225,11 @@
             "id": 162723104,
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-03T00:36:34Z",
+            "last_commit": "2026-10-03T06:51:34Z",
             "open_issues": 4,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33392,
+            "stars": 33396,
             "topics": [
               "application-security",
               "appsec",
@@ -406,7 +406,7 @@
             "open_issues": 13,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13842,
+            "stars": 13844,
             "topics": [
               "awesome",
               "awesome-list",
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:46:01.730Z",
+    "last_updated": "2026-10-03T09:56:27.976Z",
     "original_repository_info": {
       "archived": false,
       "description": "☔️A curated list of tools, articles & resources to help take your frontend security to the next level. Feel free to contribute!",
