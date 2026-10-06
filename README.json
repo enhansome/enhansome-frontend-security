@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33484,
+            "stars": 33489,
             "topics": [
               "application-security",
               "appsec",
@@ -229,7 +229,7 @@
             "open_issues": 1,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33484,
+            "stars": 33489,
             "topics": [
               "application-security",
               "appsec",
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:24:55.361Z",
+    "last_updated": "2026-10-06T11:22:49.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "☔️A curated list of tools, articles & resources to help take your frontend security to the next level. Feel free to contribute!",
