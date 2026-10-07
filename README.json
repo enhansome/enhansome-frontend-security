@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-10-06T07:18:44Z",
-            "open_issues": 1,
+            "open_issues": 10,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33489,
+            "stars": 33518,
             "topics": [
               "application-security",
               "appsec",
@@ -50,7 +50,7 @@
                 "open_issues": 21,
                 "owner": "eslint-community",
                 "repo": "eslint-plugin-security",
-                "stars": 2377,
+                "stars": 2378,
                 "topics": [
                   "eslint",
                   "eslint-plugin"
@@ -131,7 +131,7 @@
                 "open_issues": 2,
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17441,
+                "stars": 17443,
                 "topics": [
                   "cross-site-scripting",
                   "dom",
@@ -164,7 +164,7 @@
                 "open_issues": 18,
                 "owner": "apostrophecms",
                 "repo": "sanitize-html",
-                "stars": 4112,
+                "stars": 4111,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:44:35.567Z"
@@ -226,10 +226,10 @@
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-10-06T07:18:44Z",
-            "open_issues": 1,
+            "open_issues": 10,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33489,
+            "stars": 33518,
             "topics": [
               "application-security",
               "appsec",
@@ -403,10 +403,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-09-14T12:46:56Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13856,
+            "stars": 13863,
             "topics": [
               "awesome",
               "awesome-list",
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:22:49.134Z",
+    "last_updated": "2026-10-07T11:10:52.330Z",
     "original_repository_info": {
       "archived": false,
       "description": "☔️A curated list of tools, articles & resources to help take your frontend security to the next level. Feel free to contribute!",
