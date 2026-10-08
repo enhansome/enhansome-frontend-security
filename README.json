@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-10-06T07:18:44Z",
-            "open_issues": 10,
+            "open_issues": 15,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33518,
+            "stars": 33545,
             "topics": [
               "application-security",
               "appsec",
@@ -127,11 +127,11 @@
                 "id": 16927692,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T18:26:08Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-07T19:26:28Z",
+                "open_issues": 1,
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17443,
+                "stars": 17449,
                 "topics": [
                   "cross-site-scripting",
                   "dom",
@@ -226,10 +226,10 @@
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-10-06T07:18:44Z",
-            "open_issues": 10,
+            "open_issues": 15,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33518,
+            "stars": 33545,
             "topics": [
               "application-security",
               "appsec",
@@ -406,7 +406,7 @@
             "open_issues": 14,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13863,
+            "stars": 13864,
             "topics": [
               "awesome",
               "awesome-list",
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T11:10:52.330Z",
+    "last_updated": "2026-10-08T11:28:29.085Z",
     "original_repository_info": {
       "archived": false,
       "description": "☔️A curated list of tools, articles & resources to help take your frontend security to the next level. Feel free to contribute!",
