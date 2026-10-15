@@ -15,11 +15,11 @@
             "id": 162723104,
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-13T23:30:09Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-14T13:51:04Z",
+            "open_issues": 10,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33690,
+            "stars": 33644,
             "topics": [
               "application-security",
               "appsec",
@@ -131,7 +131,7 @@
                 "open_issues": 0,
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17456,
+                "stars": 17462,
                 "topics": [
                   "cross-site-scripting",
                   "dom",
@@ -225,11 +225,11 @@
             "id": 162723104,
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-13T23:30:09Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-14T13:51:04Z",
+            "open_issues": 10,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33690,
+            "stars": 33644,
             "topics": [
               "application-security",
               "appsec",
@@ -406,7 +406,7 @@
             "open_issues": 18,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13898,
+            "stars": 13901,
             "topics": [
               "awesome",
               "awesome-list",
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T09:36:25.013Z",
+    "last_updated": "2026-10-15T09:14:07.018Z",
     "original_repository_info": {
       "archived": false,
       "description": "☔️A curated list of tools, articles & resources to help take your frontend security to the next level. Feel free to contribute!",
