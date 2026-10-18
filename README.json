@@ -15,11 +15,11 @@
             "id": 162723104,
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-16T14:25:00Z",
+            "last_commit": "2026-10-17T15:47:15Z",
             "open_issues": 18,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33657,
+            "stars": 33663,
             "topics": [
               "application-security",
               "appsec",
@@ -131,7 +131,7 @@
                 "open_issues": 12,
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17469,
+                "stars": 17470,
                 "topics": [
                   "cross-site-scripting",
                   "dom",
@@ -164,7 +164,7 @@
                 "open_issues": 18,
                 "owner": "apostrophecms",
                 "repo": "sanitize-html",
-                "stars": 4110,
+                "stars": 4109,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:44:35.567Z"
@@ -225,11 +225,11 @@
             "id": 162723104,
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-16T14:25:00Z",
+            "last_commit": "2026-10-17T15:47:15Z",
             "open_issues": 18,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33657,
+            "stars": 33663,
             "topics": [
               "application-security",
               "appsec",
@@ -406,7 +406,7 @@
             "open_issues": 20,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13908,
+            "stars": 13911,
             "topics": [
               "awesome",
               "awesome-list",
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T08:40:06.187Z",
+    "last_updated": "2026-10-18T08:56:31.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "☔️A curated list of tools, articles & resources to help take your frontend security to the next level. Feel free to contribute!",
