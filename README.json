@@ -15,11 +15,11 @@
             "id": 162723104,
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-19T08:11:04Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-20T07:52:35Z",
+            "open_issues": 21,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33669,
+            "stars": 33683,
             "topics": [
               "application-security",
               "appsec",
@@ -50,7 +50,7 @@
                 "open_issues": 22,
                 "owner": "eslint-community",
                 "repo": "eslint-plugin-security",
-                "stars": 2379,
+                "stars": 2380,
                 "topics": [
                   "eslint",
                   "eslint-plugin"
@@ -131,7 +131,7 @@
                 "open_issues": 12,
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17473,
+                "stars": 17478,
                 "topics": [
                   "cross-site-scripting",
                   "dom",
@@ -189,7 +189,7 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-23T15:50:34Z",
-                "open_issues": 46,
+                "open_issues": 47,
                 "owner": "yahoo",
                 "repo": "serialize-javascript",
                 "stars": 2925,
@@ -225,11 +225,11 @@
             "id": 162723104,
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-19T08:11:04Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-20T07:52:35Z",
+            "open_issues": 21,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33669,
+            "stars": 33683,
             "topics": [
               "application-security",
               "appsec",
@@ -295,7 +295,7 @@
                     "id": 117714206,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-06-02T19:27:30Z",
+                    "last_commit": "2026-10-19T21:13:08Z",
                     "open_issues": 28,
                     "owner": "slackhq",
                     "repo": "csp-html-webpack-plugin",
@@ -403,10 +403,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-09-14T12:46:56Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13919,
+            "stars": 13924,
             "topics": [
               "awesome",
               "awesome-list",
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T10:04:10.517Z",
+    "last_updated": "2026-10-20T09:31:12.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "☔️A curated list of tools, articles & resources to help take your frontend security to the next level. Feel free to contribute!",
