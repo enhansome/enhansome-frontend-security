@@ -2,7 +2,7 @@
 
 <p><img src="/logo.png" alt="awesome-frontend-security" srcset="/logo.png 2x"/></p>
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/sindresorhus/awesome) ⭐ 524,882 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/sindresorhus/awesome) ⭐ 525,374 | 🐛 105 | 📅 2026-09-02
 
 ## Contents
 
@@ -20,7 +20,7 @@
 
 ## Code
 
-* [AJAX Security Cheatsheet](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/AJAX_Security_Cheat_Sheet.md) ⭐ 33,740 | 🐛 18 | 🌐 JavaScript | 📅 2026-10-26 - A starting point for AJAX security.
+* [AJAX Security Cheatsheet](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/AJAX_Security_Cheat_Sheet.md) ⭐ 33,754 | 🐛 17 | 🌐 JavaScript | 📅 2026-10-26 - A starting point for AJAX security.
 * [JavaScript Secure Coding Practices](https://checkmarx.gitbooks.io/js-scp/content/) - A guide written for anyone who is using the JavaScript for web development.
 * [Security Policy](https://help.github.com/en/articles/adding-a-security-policy-to-your-repository) - How to add a security policy to your Github repository.
 
@@ -32,16 +32,16 @@
 
 ### Sanitizers
 
-* [`dompurify`](https://github.com/cure53/DOMPurify) ⭐ 17,485 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-24 - XSS sanitizer for HTML, MathML and SVG
+* [`dompurify`](https://github.com/cure53/DOMPurify) ⭐ 17,486 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-24 - XSS sanitizer for HTML, MathML and SVG
 * [`sanitize-html`](https://github.com/apostrophecms/sanitize-html) ⚠️ Archived - Clean up user-submitted HTML.
 
 ### Serializers
 
-* [`serialize-javascript`](https://github.com/yahoo/serialize-javascript) ⭐ 2,926 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-23 - Serialize JavaScript safely - HTML characters and JS line terminators are escaped automatically.
+* [`serialize-javascript`](https://github.com/yahoo/serialize-javascript) ⭐ 2,926 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-26 - Serialize JavaScript safely - HTML characters and JS line terminators are escaped automatically.
 
 ## Dependencies
 
-* [Vulnerable Dependency Management](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Vulnerable_Dependency_Management_Cheat_Sheet.md#tools) ⭐ 33,740 | 🐛 18 | 🌐 JavaScript | 📅 2026-10-26 - About tools for detecting vulnerable third-party dependencies.
+* [Vulnerable Dependency Management](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Vulnerable_Dependency_Management_Cheat_Sheet.md#tools) ⭐ 33,754 | 🐛 17 | 🌐 JavaScript | 📅 2026-10-26 - About tools for detecting vulnerable third-party dependencies.
 * [`audit-ci`](https://github.com/IBM/audit-ci) ⭐ 297 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-12 - NPM and Yarn dependencies audit for CI/CD.
 * [`dtrack-audit`](https://github.com/ozonru/dtrack-audit) - OWASP Dependency Track API client for CI/CD.
 * [Github Automated Security Fixes](https://help.github.com/en/articles/configuring-automated-security-fixes) - How to use automated or manual pull requests to easily update vulnerable dependencies.
@@ -72,7 +72,7 @@
 
 #### 🤔Analyse
 
-* [CSP WTF?](https://github.com/nico3333fr/CSP-useful/blob/master/csp-wtf/explained.md) ⭐ 500 | 🐛 8 | 🌐 PHP | 📅 2026-07-10 - Explanations for strange CSP Report notifications.
+* [CSP WTF?](https://github.com/nico3333fr/CSP-useful/blob/master/csp-wtf/explained.md) ⭐ 499 | 🐛 8 | 🌐 PHP | 📅 2026-07-10 - Explanations for strange CSP Report notifications.
 
 ### X-XSS-Protection
 
@@ -94,8 +94,8 @@
 
 ## Other lists
 
-* [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) ⭐ 13,959 | 🐛 26 | 🌐 Python | 📅 2026-09-14 - A curated list of Web Security materials and resources.
-* [CSP useful](https://github.com/nico3333fr/CSP-useful) ⭐ 500 | 🐛 8 | 🌐 PHP | 📅 2026-07-10 - A collection of parsers, examples and tips for Content Security Policy.
+* [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) ⭐ 13,964 | 🐛 26 | 🌐 Python | 📅 2026-09-14 - A curated list of Web Security materials and resources.
+* [CSP useful](https://github.com/nico3333fr/CSP-useful) ⭐ 499 | 🐛 8 | 🌐 PHP | 📅 2026-07-10 - A collection of parsers, examples and tips for Content Security Policy.
 
 ## License
 
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._

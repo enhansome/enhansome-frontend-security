@@ -15,11 +15,11 @@
             "id": 162723104,
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-26T08:36:39Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-26T21:51:13Z",
+            "open_issues": 17,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33740,
+            "stars": 33754,
             "topics": [
               "application-security",
               "appsec",
@@ -131,7 +131,7 @@
                 "open_issues": 0,
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17485,
+                "stars": 17486,
                 "topics": [
                   "cross-site-scripting",
                   "dom",
@@ -188,8 +188,8 @@
                 "id": 24106944,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T14:52:25Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-26T14:54:48Z",
+                "open_issues": 7,
                 "owner": "yahoo",
                 "repo": "serialize-javascript",
                 "stars": 2926,
@@ -225,11 +225,11 @@
             "id": 162723104,
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-26T08:36:39Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-26T21:51:13Z",
+            "open_issues": 17,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33740,
+            "stars": 33754,
             "topics": [
               "application-security",
               "appsec",
@@ -359,7 +359,7 @@
                     "open_issues": 8,
                     "owner": "nico3333fr",
                     "repo": "CSP-useful",
-                    "stars": 500,
+                    "stars": 499,
                     "topics": [
                       "content-security-policy",
                       "csp",
@@ -406,7 +406,7 @@
             "open_issues": 26,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13959,
+            "stars": 13964,
             "topics": [
               "awesome",
               "awesome-list",
@@ -435,7 +435,7 @@
             "open_issues": 8,
             "owner": "nico3333fr",
             "repo": "CSP-useful",
-            "stars": 500,
+            "stars": 499,
             "topics": [
               "content-security-policy",
               "csp",
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T10:18:43.058Z",
+    "last_updated": "2026-10-27T09:54:30.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "☔️A curated list of tools, articles & resources to help take your frontend security to the next level. Feel free to contribute!",
