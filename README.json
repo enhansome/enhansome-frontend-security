@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-10-26T21:51:13Z",
-            "open_issues": 17,
+            "open_issues": 21,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33754,
+            "stars": 33768,
             "topics": [
               "application-security",
               "appsec",
@@ -71,7 +71,7 @@
                 "language": "JavaScript",
                 "license": "MPL-2.0",
                 "last_commit": "2026-10-12T20:20:37Z",
-                "open_issues": 38,
+                "open_issues": 40,
                 "owner": "mozilla",
                 "repo": "eslint-plugin-no-unsanitized",
                 "stars": 249,
@@ -131,7 +131,7 @@
                 "open_issues": 0,
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17486,
+                "stars": 17491,
                 "topics": [
                   "cross-site-scripting",
                   "dom",
@@ -164,7 +164,7 @@
                 "open_issues": 18,
                 "owner": "apostrophecms",
                 "repo": "sanitize-html",
-                "stars": 4109,
+                "stars": 4108,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:44:35.567Z"
@@ -226,10 +226,10 @@
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-10-26T21:51:13Z",
-            "open_issues": 17,
+            "open_issues": 21,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33754,
+            "stars": 33768,
             "topics": [
               "application-security",
               "appsec",
@@ -255,7 +255,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-12T13:57:03Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "IBM",
             "repo": "audit-ci",
             "stars": 297,
@@ -403,10 +403,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-09-14T12:46:56Z",
-            "open_issues": 26,
+            "open_issues": 29,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13964,
+            "stars": 13968,
             "topics": [
               "awesome",
               "awesome-list",
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T09:54:30.895Z",
+    "last_updated": "2026-10-28T10:41:00.831Z",
     "original_repository_info": {
       "archived": false,
       "description": "☔️A curated list of tools, articles & resources to help take your frontend security to the next level. Feel free to contribute!",
