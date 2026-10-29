@@ -15,11 +15,11 @@
             "id": 162723104,
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-26T21:51:13Z",
+            "last_commit": "2026-10-28T11:45:55Z",
             "open_issues": 21,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33768,
+            "stars": 33787,
             "topics": [
               "application-security",
               "appsec",
@@ -50,7 +50,7 @@
                 "open_issues": 23,
                 "owner": "eslint-community",
                 "repo": "eslint-plugin-security",
-                "stars": 2380,
+                "stars": 2381,
                 "topics": [
                   "eslint",
                   "eslint-plugin"
@@ -71,7 +71,7 @@
                 "language": "JavaScript",
                 "license": "MPL-2.0",
                 "last_commit": "2026-10-12T20:20:37Z",
-                "open_issues": 40,
+                "open_issues": 41,
                 "owner": "mozilla",
                 "repo": "eslint-plugin-no-unsanitized",
                 "stars": 249,
@@ -131,7 +131,7 @@
                 "open_issues": 0,
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17491,
+                "stars": 17493,
                 "topics": [
                   "cross-site-scripting",
                   "dom",
@@ -189,7 +189,7 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-26T14:54:48Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "yahoo",
                 "repo": "serialize-javascript",
                 "stars": 2926,
@@ -225,11 +225,11 @@
             "id": 162723104,
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-26T21:51:13Z",
+            "last_commit": "2026-10-28T11:45:55Z",
             "open_issues": 21,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33768,
+            "stars": 33787,
             "topics": [
               "application-security",
               "appsec",
@@ -406,7 +406,7 @@
             "open_issues": 29,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13968,
+            "stars": 13975,
             "topics": [
               "awesome",
               "awesome-list",
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T10:41:00.831Z",
+    "last_updated": "2026-10-29T10:58:21.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "☔️A curated list of tools, articles & resources to help take your frontend security to the next level. Feel free to contribute!",
