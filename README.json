@@ -15,11 +15,11 @@
             "id": 162723104,
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-30T14:46:37Z",
-            "open_issues": 25,
+            "last_commit": "2026-11-01T14:44:10Z",
+            "open_issues": 21,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33829,
+            "stars": 33848,
             "topics": [
               "application-security",
               "appsec",
@@ -127,7 +127,7 @@
                 "id": 16927692,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T14:02:50Z",
+                "last_commit": "2026-11-01T15:49:12Z",
                 "open_issues": 0,
                 "owner": "cure53",
                 "repo": "DOMPurify",
@@ -164,7 +164,7 @@
                 "open_issues": 18,
                 "owner": "apostrophecms",
                 "repo": "sanitize-html",
-                "stars": 4108,
+                "stars": 4109,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:44:35.567Z"
@@ -225,11 +225,11 @@
             "id": 162723104,
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-30T14:46:37Z",
-            "open_issues": 25,
+            "last_commit": "2026-11-01T14:44:10Z",
+            "open_issues": 21,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33829,
+            "stars": 33848,
             "topics": [
               "application-security",
               "appsec",
@@ -402,11 +402,11 @@
             "id": 80358070,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-14T12:46:56Z",
-            "open_issues": 30,
+            "last_commit": "2026-11-02T10:57:34Z",
+            "open_issues": 4,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13981,
+            "stars": 13988,
             "topics": [
               "awesome",
               "awesome-list",
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T11:22:58.085Z",
+    "last_updated": "2026-11-02T12:40:15.345Z",
     "original_repository_info": {
       "archived": false,
       "description": "☔️A curated list of tools, articles & resources to help take your frontend security to the next level. Feel free to contribute!",
