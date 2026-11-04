@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-11-03T10:51:04Z",
-            "open_issues": 19,
+            "open_issues": 22,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33859,
+            "stars": 33879,
             "topics": [
               "application-security",
               "appsec",
@@ -74,7 +74,7 @@
                 "open_issues": 41,
                 "owner": "mozilla",
                 "repo": "eslint-plugin-no-unsanitized",
-                "stars": 249,
+                "stars": 250,
                 "topics": [
                   "eslint-plugin",
                   "security"
@@ -131,7 +131,7 @@
                 "open_issues": 0,
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17500,
+                "stars": 17502,
                 "topics": [
                   "cross-site-scripting",
                   "dom",
@@ -226,10 +226,10 @@
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-11-03T10:51:04Z",
-            "open_issues": 19,
+            "open_issues": 22,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33859,
+            "stars": 33879,
             "topics": [
               "application-security",
               "appsec",
@@ -289,7 +289,7 @@
                   "description": "Generates meta content for your Content Security Policy tag.",
                   "children": [],
                   "repo_info": {
-                    "archived": false,
+                    "archived": true,
                     "description": "A plugin which, when combined with HTMLWebpackPlugin, adds CSP tags to the HTML output.",
                     "homepage": null,
                     "id": 117714206,
@@ -406,7 +406,7 @@
             "open_issues": 2,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13994,
+            "stars": 13998,
             "topics": [
               "awesome",
               "awesome-list",
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T12:05:57.867Z",
+    "last_updated": "2026-11-04T12:18:55.983Z",
     "original_repository_info": {
       "archived": false,
       "description": "☔️A curated list of tools, articles & resources to help take your frontend security to the next level. Feel free to contribute!",
