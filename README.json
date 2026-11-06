@@ -15,11 +15,11 @@
             "id": 162723104,
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-03T10:51:04Z",
-            "open_issues": 24,
+            "last_commit": "2026-11-05T16:43:10Z",
+            "open_issues": 25,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33895,
+            "stars": 33910,
             "topics": [
               "application-security",
               "appsec",
@@ -131,7 +131,7 @@
                 "open_issues": 0,
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17503,
+                "stars": 17505,
                 "topics": [
                   "cross-site-scripting",
                   "dom",
@@ -192,7 +192,7 @@
                 "open_issues": 8,
                 "owner": "yahoo",
                 "repo": "serialize-javascript",
-                "stars": 2926,
+                "stars": 2925,
                 "topics": [
                   "javascript",
                   "json",
@@ -225,11 +225,11 @@
             "id": 162723104,
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-03T10:51:04Z",
-            "open_issues": 24,
+            "last_commit": "2026-11-05T16:43:10Z",
+            "open_issues": 25,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33895,
+            "stars": 33910,
             "topics": [
               "application-security",
               "appsec",
@@ -403,10 +403,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-11-02T14:05:42Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 14004,
+            "stars": 14011,
             "topics": [
               "awesome",
               "awesome-list",
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T12:33:12.218Z",
+    "last_updated": "2026-11-06T12:16:43.189Z",
     "original_repository_info": {
       "archived": false,
       "description": "☔️A curated list of tools, articles & resources to help take your frontend security to the next level. Feel free to contribute!",
