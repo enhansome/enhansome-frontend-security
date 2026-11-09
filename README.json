@@ -15,11 +15,11 @@
             "id": 162723104,
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-05T16:43:10Z",
-            "open_issues": 31,
+            "last_commit": "2026-11-09T08:39:23Z",
+            "open_issues": 21,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33940,
+            "stars": 33977,
             "topics": [
               "application-security",
               "appsec",
@@ -131,7 +131,7 @@
                 "open_issues": 0,
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17510,
+                "stars": 17515,
                 "topics": [
                   "cross-site-scripting",
                   "dom",
@@ -225,11 +225,11 @@
             "id": 162723104,
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-05T16:43:10Z",
-            "open_issues": 31,
+            "last_commit": "2026-11-09T08:39:23Z",
+            "open_issues": 21,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33940,
+            "stars": 33977,
             "topics": [
               "application-security",
               "appsec",
@@ -255,7 +255,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-12T13:57:03Z",
-            "open_issues": 22,
+            "open_issues": 21,
             "owner": "IBM",
             "repo": "audit-ci",
             "stars": 298,
@@ -406,7 +406,7 @@
             "open_issues": 6,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 14014,
+            "stars": 14025,
             "topics": [
               "awesome",
               "awesome-list",
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T11:23:30.403Z",
+    "last_updated": "2026-11-09T13:05:41.071Z",
     "original_repository_info": {
       "archived": false,
       "description": "☔️A curated list of tools, articles & resources to help take your frontend security to the next level. Feel free to contribute!",
