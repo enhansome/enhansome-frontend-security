@@ -15,11 +15,11 @@
             "id": 162723104,
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-11T02:24:53Z",
-            "open_issues": 26,
+            "last_commit": "2026-11-12T09:49:09Z",
+            "open_issues": 30,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 34018,
+            "stars": 34031,
             "topics": [
               "application-security",
               "appsec",
@@ -131,7 +131,7 @@
                 "open_issues": 0,
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17522,
+                "stars": 17523,
                 "topics": [
                   "cross-site-scripting",
                   "dom",
@@ -225,11 +225,11 @@
             "id": 162723104,
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-11T02:24:53Z",
-            "open_issues": 26,
+            "last_commit": "2026-11-12T09:49:09Z",
+            "open_issues": 30,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 34018,
+            "stars": 34031,
             "topics": [
               "application-security",
               "appsec",
@@ -403,10 +403,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-11-02T14:05:42Z",
-            "open_issues": 9,
+            "open_issues": 11,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 14033,
+            "stars": 14044,
             "topics": [
               "awesome",
               "awesome-list",
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T11:58:10.684Z",
+    "last_updated": "2026-11-12T12:58:19.082Z",
     "original_repository_info": {
       "archived": false,
       "description": "☔️A curated list of tools, articles & resources to help take your frontend security to the next level. Feel free to contribute!",
