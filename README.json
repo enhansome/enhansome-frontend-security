@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-11-17T09:33:42Z",
-            "open_issues": 30,
+            "open_issues": 38,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 34093,
+            "stars": 34112,
             "topics": [
               "application-security",
               "appsec",
@@ -226,10 +226,10 @@
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-11-17T09:33:42Z",
-            "open_issues": 30,
+            "open_issues": 38,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 34093,
+            "stars": 34112,
             "topics": [
               "application-security",
               "appsec",
@@ -255,7 +255,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-16T21:51:13Z",
-            "open_issues": 20,
+            "open_issues": 18,
             "owner": "IBM",
             "repo": "audit-ci",
             "stars": 298,
@@ -403,10 +403,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-11-02T14:05:42Z",
-            "open_issues": 16,
+            "open_issues": 15,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 14063,
+            "stars": 14073,
             "topics": [
               "awesome",
               "awesome-list",
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T13:39:16.895Z",
+    "last_updated": "2026-11-18T13:13:39.373Z",
     "original_repository_info": {
       "archived": false,
       "description": "☔️A curated list of tools, articles & resources to help take your frontend security to the next level. Feel free to contribute!",
