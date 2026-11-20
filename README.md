@@ -2,7 +2,7 @@
 
 <p><img src="/logo.png" alt="awesome-frontend-security" srcset="/logo.png 2x"/></p>
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/sindresorhus/awesome) ⭐ 539,290 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/sindresorhus/awesome) ⭐ 539,798 | 🐛 103 | 📅 2026-09-02
 
 ## Contents
 
@@ -20,28 +20,28 @@
 
 ## Code
 
-* [AJAX Security Cheatsheet](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/AJAX_Security_Cheat_Sheet.md) ⭐ 34,134 | 🐛 37 | 🌐 JavaScript | 📅 2026-11-19 - A starting point for AJAX security.
+* [AJAX Security Cheatsheet](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/AJAX_Security_Cheat_Sheet.md) ⭐ 34,143 | 🐛 44 | 🌐 JavaScript | 📅 2026-11-19 - A starting point for AJAX security.
 * [JavaScript Secure Coding Practices](https://checkmarx.gitbooks.io/js-scp/content/) - A guide written for anyone who is using the JavaScript for web development.
 * [Security Policy](https://help.github.com/en/articles/adding-a-security-policy-to-your-repository) - How to add a security policy to your Github repository.
 
 ### Linters
 
-* [`eslint-plugin-security`](https://github.com/nodesecurity/eslint-plugin-security) ⭐ 2,380 | 🐛 24 | 🌐 JavaScript | 📅 2026-10-30 - ESLint rules for Node Security.
+* [`eslint-plugin-security`](https://github.com/nodesecurity/eslint-plugin-security) ⭐ 2,379 | 🐛 25 | 🌐 JavaScript | 📅 2026-10-30 - ESLint rules for Node Security.
 * [`eslint-plugin-no-unsanitized`](https://github.com/mozilla/eslint-plugin-no-unsanitized) ⭐ 252 | 🐛 41 | 🌐 JavaScript | 📅 2026-10-12 - ESLint rules to disallows unsafe innerHTML, outerHTML, insertAdjacentHTML and alike.
 * [`eslint-config-sec`](https://github.com/rustcohlnikov/eslint-config-sec) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2019-10-15 - ESLint rules for writing safe and secure client code.
 
 ### Sanitizers
 
-* [`dompurify`](https://github.com/cure53/DOMPurify) ⭐ 17,538 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-19 - XSS sanitizer for HTML, MathML and SVG
+* [`dompurify`](https://github.com/cure53/DOMPurify) ⭐ 17,537 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-19 - XSS sanitizer for HTML, MathML and SVG
 * [`sanitize-html`](https://github.com/apostrophecms/sanitize-html) ⚠️ Archived - Clean up user-submitted HTML.
 
 ### Serializers
 
-* [`serialize-javascript`](https://github.com/yahoo/serialize-javascript) ⭐ 2,926 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-26 - Serialize JavaScript safely - HTML characters and JS line terminators are escaped automatically.
+* [`serialize-javascript`](https://github.com/yahoo/serialize-javascript) ⭐ 2,925 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-26 - Serialize JavaScript safely - HTML characters and JS line terminators are escaped automatically.
 
 ## Dependencies
 
-* [Vulnerable Dependency Management](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Vulnerable_Dependency_Management_Cheat_Sheet.md#tools) ⭐ 34,134 | 🐛 37 | 🌐 JavaScript | 📅 2026-11-19 - About tools for detecting vulnerable third-party dependencies.
+* [Vulnerable Dependency Management](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Vulnerable_Dependency_Management_Cheat_Sheet.md#tools) ⭐ 34,143 | 🐛 44 | 🌐 JavaScript | 📅 2026-11-19 - About tools for detecting vulnerable third-party dependencies.
 * [`audit-ci`](https://github.com/IBM/audit-ci) ⭐ 298 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-16 - NPM and Yarn dependencies audit for CI/CD.
 * [`dtrack-audit`](https://github.com/ozonru/dtrack-audit) - OWASP Dependency Track API client for CI/CD.
 * [Github Automated Security Fixes](https://help.github.com/en/articles/configuring-automated-security-fixes) - How to use automated or manual pull requests to easily update vulnerable dependencies.
@@ -72,7 +72,7 @@
 
 #### 🤔Analyse
 
-* [CSP WTF?](https://github.com/nico3333fr/CSP-useful/blob/master/csp-wtf/explained.md) ⭐ 500 | 🐛 8 | 🌐 PHP | 📅 2026-07-10 - Explanations for strange CSP Report notifications.
+* [CSP WTF?](https://github.com/nico3333fr/CSP-useful/blob/master/csp-wtf/explained.md) ⭐ 499 | 🐛 8 | 🌐 PHP | 📅 2026-07-10 - Explanations for strange CSP Report notifications.
 
 ### X-XSS-Protection
 
@@ -94,8 +94,8 @@
 
 ## Other lists
 
-* [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) ⭐ 14,077 | 🐛 18 | 🌐 Python | 📅 2026-11-02 - A curated list of Web Security materials and resources.
-* [CSP useful](https://github.com/nico3333fr/CSP-useful) ⭐ 500 | 🐛 8 | 🌐 PHP | 📅 2026-07-10 - A collection of parsers, examples and tips for Content Security Policy.
+* [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) ⭐ 14,080 | 🐛 18 | 🌐 Python | 📅 2026-11-02 - A curated list of Web Security materials and resources.
+* [CSP useful](https://github.com/nico3333fr/CSP-useful) ⭐ 499 | 🐛 8 | 🌐 PHP | 📅 2026-07-10 - A collection of parsers, examples and tips for Content Security Policy.
 
 ## License
 
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
