@@ -15,11 +15,11 @@
             "id": 162723104,
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-25T08:09:42Z",
-            "open_issues": 45,
+            "last_commit": "2026-11-26T10:30:21Z",
+            "open_issues": 39,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 34196,
+            "stars": 34210,
             "topics": [
               "application-security",
               "appsec",
@@ -131,7 +131,7 @@
                 "open_issues": 0,
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17547,
+                "stars": 17553,
                 "topics": [
                   "cross-site-scripting",
                   "dom",
@@ -164,7 +164,7 @@
                 "open_issues": 17,
                 "owner": "apostrophecms",
                 "repo": "sanitize-html",
-                "stars": 4104,
+                "stars": 4105,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:44:35.567Z"
@@ -189,7 +189,7 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-26T14:54:48Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "yahoo",
                 "repo": "serialize-javascript",
                 "stars": 2925,
@@ -225,11 +225,11 @@
             "id": 162723104,
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-25T08:09:42Z",
-            "open_issues": 45,
+            "last_commit": "2026-11-26T10:30:21Z",
+            "open_issues": 39,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 34196,
+            "stars": 34210,
             "topics": [
               "application-security",
               "appsec",
@@ -403,10 +403,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-11-02T14:05:42Z",
-            "open_issues": 26,
+            "open_issues": 28,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 14099,
+            "stars": 14108,
             "topics": [
               "awesome",
               "awesome-list",
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T14:39:53.222Z",
+    "last_updated": "2026-11-26T14:03:38.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "☔️A curated list of tools, articles & resources to help take your frontend security to the next level. Feel free to contribute!",
